@@ -909,7 +909,7 @@ Most Played Style
 .most-played {
   background-color: #f7f7f7;
   padding: 100px 0px;
-  border-radius: 50px;
+  border-radius: 80px;
 }
 
 .most-played .main-button {
@@ -989,7 +989,7 @@ Categories Style
 .categories .item  {
   background-color: #0071f8;
   position: relative;
-  border-radius: 25px;
+  border-radius: 20px;
   text-align: center;
   margin-bottom: 30px;
 }
@@ -1134,7 +1134,7 @@ Footer Style
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
-  color:whitesmoke;
+  color:white;
   text-transform: uppercase;
 }
 
