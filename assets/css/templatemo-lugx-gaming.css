@@ -1279,19 +1279,19 @@ Page Header Style
 }
 
 .page-heading span {
-  display: inline-block;
+  display:inline-block;
   font-size: 16px;
-  color: #fff;
+  color: #faf7f7c6;
 }
 
 .page-heading span a {
-  color: #fff;
+  color: #ebe4e4;
 }
 
 .page-heading h3 {
   font-size: 48px;
   text-transform: uppercase;
-  color: #fff;
+  color: #ffffff;
   margin-top: 20px;
   position: relative;
   margin-bottom: 20px;
