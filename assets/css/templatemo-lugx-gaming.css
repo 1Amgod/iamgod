@@ -714,7 +714,7 @@ Banner Style
   display: inline-block;
   height: 50px;
   line-height: 50px;
-  background-color: #0202229d;
+  background-color: #000000f8;
   color: #fff;
   font-size: 15px;
   text-transform: uppercase;
@@ -729,7 +729,7 @@ Banner Style
 }
 
 .main-banner .caption form button:hover {
-  background-color: #0071f8;
+  background-color: #11052d;
 }
 
 .main-banner .right-image {
