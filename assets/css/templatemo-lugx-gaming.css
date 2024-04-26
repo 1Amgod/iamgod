@@ -657,7 +657,7 @@ Banner Style
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment:fixed;
-  padding: 225px 225px;
+  padding: 225px 0px;
 }
 
 .main-banner .caption h6 {
