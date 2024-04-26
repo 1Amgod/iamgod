@@ -653,7 +653,7 @@ Banner Style
 .main-banner {
   background-image: url(../images/banner-bg.jpg);
   border-radius: 0px 0px 25px 25px;
-  background-position: center-top;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
