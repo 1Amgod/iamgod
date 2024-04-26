@@ -909,7 +909,7 @@ Most Played Style
 .most-played {
   background-color: #f7f7f7;
   padding: 100px 0px;
-  border-radius: 80px;
+  border-radius: 30px;
 }
 
 .most-played .main-button {
