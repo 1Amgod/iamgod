@@ -1289,12 +1289,12 @@ Page Header Style
 }
 
 .page-heading h3 {
-  font-size: 35px;
+  font-size: 25px;
   text-transform: uppercase;
   color: #ffffff;
-  margin-top: 10px;
+  margin-top: 9px;
   position: relative;
-  margin-bottom: 3px;
+  margin-bottom: 5px;
 }
 
 
