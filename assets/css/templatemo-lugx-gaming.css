@@ -1274,13 +1274,13 @@ Page Header Style
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 200px 0px 100px 0px;
+  padding: 150px 0px 25px 0px;
   text-align: center;
 }
 
 .page-heading span {
   display:inline-block;
-  font-size: 16px;
+  font-size: 15px;
   color: #fcf8f8;
 }
 
@@ -1289,12 +1289,12 @@ Page Header Style
 }
 
 .page-heading h3 {
-  font-size: 48px;
+  font-size: 35px;
   text-transform: uppercase;
   color: #ffffff;
-  margin-top: 20px;
+  margin-top: 10px;
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: 3px;
 }
 
 
