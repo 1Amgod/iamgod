@@ -1289,12 +1289,12 @@ Page Header Style
 }
 
 .page-heading h3 {
-  font-size: 25px;
+  font-size: 35px;
   text-transform: uppercase;
   color: #ffffff;
-  margin-top: 9px;
+  margin-top: 10px;
   position: relative;
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 
@@ -1472,12 +1472,12 @@ Single Page Style
 }
 
 .single-product h4 {
-  font-size: 27px;
-  margin-bottom: 20px;
+  font-size: 20px;
+  margin-bottom: 15px;
 }
 
 .single-product span.price {
-  font-size: 27px;
+  font-size: 24px;
   font-weight: 700;
   color: #0071f8;
 }
@@ -1492,8 +1492,8 @@ Single Page Style
 }
 
 .single-product p {
-  margin-top: 50px;
-  margin-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 40px;
 }
 
 .single-product form input {
@@ -1558,7 +1558,7 @@ Single Page Style
 .tabs-content {
   background-color: #f7f7f7;
   border-radius: 25px;
-  padding: 60px;
+  padding: 40px;
   transition: all 0.3s;
 }
 
