@@ -693,7 +693,7 @@ Banner Style
 }
 
 .main-banner .caption form {
-  position: relative;
+  position:sticky;
   max-width: 450px;
 }
 
@@ -702,10 +702,10 @@ Banner Style
   width: 100%;
   height: 50px;
   outline: none;
-  border-radius: 25px;
+  border-radius: 15px;
   background-color: #ffffff72;
   border: none;
-  padding: 0px 25px;
+  padding: 25px 25px;
   font-size: 14px;
   color: #7a7a7a;
 }
@@ -721,7 +721,7 @@ Banner Style
   font-weight: 500;
   padding: 0px 25px;
   border: none;
-  border-radius: 25px;
+  border-radius: 15px;
   position: absolute;
   right: 0;
   top: 0;
