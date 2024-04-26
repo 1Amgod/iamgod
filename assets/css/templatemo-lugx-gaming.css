@@ -1281,7 +1281,7 @@ Page Header Style
 .page-heading span {
   display:inline-block;
   font-size: 16px;
-  color: #faf7f7c6;
+  color: #fcf8f8;
 }
 
 .page-heading span a {
@@ -1611,22 +1611,22 @@ Contact PAge Style
 .contact-page .left-text {
   background-color: #f7f7f7;
   border-radius: 25px;
-  padding: 60px;
+  padding: 40px;
 }
 
 .contact-page .left-text .section-heading {
-  margin-bottom: 50px;
+  margin-bottom: 5px;
 }
 
 .contact-page .left-text p {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .contact-page .left-text ul li {
   display: block;
-  font-size: 16px;
+  font-size: 13px;
   color: #aaaaaa;
-  font-size: 300;
+  font-size: 100;
   margin-bottom: 30px;
 }
 
@@ -1643,11 +1643,11 @@ Contact PAge Style
 }
 
 .contact-page .right-content {
-  margin-left: 50px;
+  margin-left: 25px;
 }
 
 .contact-page .right-content #map {
-  margin-bottom: 60px;
+  margin-bottom: 10px;
 }
 
 .contact-page .right-content form input {
