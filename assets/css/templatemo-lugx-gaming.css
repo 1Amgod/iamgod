@@ -653,11 +653,11 @@ Banner Style
 .main-banner {
   background-image: url(../images/banner-bg.jpg);
   border-radius: 0px 0px 30px 30px;
-  background-position: center bottom;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  padding: 225px 0px;
+  padding: 225px 225px;
 }
 
 .main-banner .caption h6 {
