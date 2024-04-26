@@ -1034,20 +1034,20 @@ CTA Style
 }
 
 .cta .shop {
-  margin-top: 80px;
+  margin-top: 50px;
   background-color: #f7f7f7;
   border-radius: 25px;
-  padding: 80px;
+  padding: 30px;
 }
 
 .cta .shop .section-heading {
-  margin-right: 30px;
-  margin-bottom: 50px;
+  margin-right: 20px;
+  margin-bottom: 40px;
 }
 
 .cta .shop p {
   font-weight: 600;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .cta .shop .main-button {
@@ -1057,16 +1057,16 @@ CTA Style
 .cta .subscribe {
   background-color: #f7f7f7;
   border-radius: 25px;
-  padding: 80px 60px;
+  padding: 65px 45px;
 }
 
 .cta .subscribe .section-heading {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .cta .subscribe form {
   position: relative;
-  max-width: 100%;
+  max-width: 95%;
 }
 
 .cta .subscribe form input {
